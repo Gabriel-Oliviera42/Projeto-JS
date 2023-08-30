@@ -1,7 +1,15 @@
-# Day #1
+# Day #10
 
-### Pixel Art Generator
-In this tutorial ([Open in Youtube](https://youtu.be/DfDPJqD3FjI)), I am gonna showing to you how to build a pixel art generator project with javascript. you can call it pixel paint app too❗️
+### Weather App
+In this tutorial ([Open in Youtube](https://youtu.be/iILFBGm_I9M)),  I am gonna showing to you how to code a weather app with javascript. in this tutorial also we use a weather api and we get data from api❗️
+
+## Warning
+You need to get your own api key (in video we showed how!) and replace it in index.js file on line 9 :
+
+```javascript
+const APIKey = 'Your Api Key';
+```
+
 
 # Screenshot
 Here we have project screenshot :
