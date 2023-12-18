@@ -1,6 +1,3 @@
-# Dia #1
-
-### Weather App
 Feito com o video do canal ([Open in Youtube](https://youtu.be/iILFBGm_I9M))
 
 ```javascript
